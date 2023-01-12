@@ -52,10 +52,10 @@ I'm an student and enthusiastic programmer building my version of the programmin
 
 
 ### Socials  
-<!-- 
-<p align="left"> <a href="https://www.facebook.com/sexy.gravyII/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /></a> <a href="facebook.com/diwash.bhattarai.18" target="_blank" rel="noreferrer">
-    <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /></a> <a href="https://www.instagram.com/diwash81/" target="_blank" rel="noreferrer">
-    <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a> <a href="https://www.linkedin.com/in/diwash-bhattarai-343a41202/" target="_blank" rel="noreferrer">
 
- -->
+<a href="facebook.com/diwash.bhattarai.18" target="_blank" rel="noreferrer">
+<img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /></a> 
+<a href="https://www.instagram.com/diwash81/" target="_blank" rel="noreferrer">
+<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /></a> 
+<a href="https://www.linkedin.com/in/diwash-bhattarai-343a41202/" target="_blank" rel="noreferrer">
+<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a> 
