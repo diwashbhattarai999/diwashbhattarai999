@@ -2,14 +2,12 @@
 
 **`A passionate frontend developer from Nepal`**
 
+<div><img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/JXA0.gif" width="40%" height="40%" align="right"/></div>
+
 I'm an student and enthusiastic programmer building my version of the programming world one step at a time. I am doing my best to learn and explore every opportunity of my life.
-
-
-
+  
 - 🌱 I’m currently learning **React .JS** 
 - 📫 How to reach me **diwashbhattarai36@gmail.com**
-
-<p><img align="right" alt="gif" src="" width="500" height="320" /></p>
 
 ---
 
@@ -23,6 +21,7 @@ I'm an student and enthusiastic programmer building my version of the programmin
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
 
 ---
 
