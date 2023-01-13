@@ -1,4 +1,6 @@
- ### 👋 Hello, I am 
+ 
+<img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/github-header-image.png" width="100%" height="100%" align="center"/>
+ 
  # 🏄‍♂️ Diwash Bhattarai
 
 **`A passionate frontend developer from Nepal`**
@@ -7,7 +9,7 @@
 
 <div><img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/JXA0.gif" width="40%" height="40%" align="right"/></div>
 
-I'm an CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am doing my best to learn and explore every opportunity of my life.
+I'm an CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am trying my best to learn and explore every opportunity of my life.
   
 - 🌱 I’m currently learning **React .JS** 
 - 📫 How to reach me **diwashbhattarai36@gmail.com**
