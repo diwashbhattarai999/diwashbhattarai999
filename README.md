@@ -2,6 +2,8 @@
 
 **`A passionate frontend developer from Nepal`**
 
+:heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
+
 <div><img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/JXA0.gif" width="40%" height="40%" align="right"/></div>
 
 I'm an student and enthusiastic programmer building my version of the programming world one step at a time. I am doing my best to learn and explore every opportunity of my life.
@@ -27,7 +29,7 @@ I'm an student and enthusiastic programmer building my version of the programmin
 
 ### 📊 Stats
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&locale=en&layout=compact"
@@ -49,8 +51,16 @@ I'm an student and enthusiastic programmer building my version of the programmin
     src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&"
     alt="diwashbhattarai999"
   />
-</p>
+</p> -->
 
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=diwashbhattarai999&show_icons=true&locale=en" alt="Sojin Samuel" /> 
+  
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&locale=en&layout=compact" alt="Sojin samuel" />
+</div>
+
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&" alt="SojinSamuel" /></div>
 
 ---
 
@@ -62,3 +72,4 @@ I'm an student and enthusiastic programmer building my version of the programmin
 <a href="https://www.linkedin.com/in/diwash-bhattarai-343a41202/" target="_blank" rel="noreferrer">
 <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA9400&height=120&section=footer"/>
