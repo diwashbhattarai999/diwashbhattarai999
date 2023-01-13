@@ -9,6 +9,8 @@ I'm an student and enthusiastic programmer building my version of the programmin
 - 🌱 I’m currently learning **React .JS** 
 - 📫 How to reach me **diwashbhattarai36@gmail.com**
 
+<p><img align="right" alt="gif" src="" width="500" height="320" /></p>
+
 ---
 
 ### 🧰 Languages and Tools
