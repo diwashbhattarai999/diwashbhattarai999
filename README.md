@@ -6,7 +6,7 @@
 
 <div><img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/JXA0.gif" width="40%" height="40%" align="right"/></div>
 
-I'm an student and enthusiastic programmer building my version of the programming world one step at a time. I am doing my best to learn and explore every opportunity of my life.
+I'm an CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am doing my best to learn and explore every opportunity of my life.
   
 - 🌱 I’m currently learning **React .JS** 
 - 📫 How to reach me **diwashbhattarai36@gmail.com**
@@ -28,39 +28,14 @@ I'm an student and enthusiastic programmer building my version of the programmin
 ---
 
 ### 📊 Stats
-
-<!-- <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&locale=en&layout=compact"
-    alt="diwashbhattarai999"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=diwashbhattarai999&show_icons=true&locale=en"
-    alt="diwashbhattarai999"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&"
-    alt="diwashbhattarai999"
-  />
-</p> -->
-
-
+<!-- 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=diwashbhattarai999&show_icons=true&locale=en" alt="Sojin Samuel" /> 
   
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&locale=en&layout=compact" alt="Sojin samuel" />
-</div>
+ <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&locale=en&layout=compact" alt="Sojin samuel" />
+</div> -->
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&" alt="SojinSamuel" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&theme=radical" alt="SojinSamuel" /></div>
 
 ---
 
