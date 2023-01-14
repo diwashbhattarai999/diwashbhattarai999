@@ -16,7 +16,7 @@ I'm an CSIT student and enthusiastic programmer building my version of the progr
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 36px align = "center"> 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -42,7 +42,7 @@ I'm an CSIT student and enthusiastic programmer building my version of the progr
 
 ---
 
-### <img width="30px" align="center" src="https://user-images.githubusercontent.com/87477700/212131801-737766f9-a18e-4026-a564-f79c0379e4b4.png"/> Socials  
+### <img width="30px" align="center" src="https://user-images.githubusercontent.com/87477700/212131801-737766f9-a18e-4026-a564-f79c0379e4b4.png"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" align = "center"> </h2> 
 <a href="https://www.facebook.com/diwash.bhattarai.18" target="_blank" rel="noreferrer">
 <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /></a> 
 <a href="https://www.instagram.com/diwash81/" target="_blank" rel="noreferrer">
