@@ -30,7 +30,7 @@ I'm an CSIT student and enthusiastic programmer building my version of the progr
 
 ---
 
-### 📊 Stats
+### 📊 Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px' align = "center" >
 <!-- 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=diwashbhattarai999&show_icons=true&locale=en" alt="Sojin Samuel" /> 
