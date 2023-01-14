@@ -43,7 +43,7 @@ I'm an CSIT student and enthusiastic programmer building my version of the progr
 ---
 
 ### <img width="30px" align="center" src="https://user-images.githubusercontent.com/87477700/212131801-737766f9-a18e-4026-a564-f79c0379e4b4.png"/> Socials  
-<a href="facebook.com/diwash.bhattarai.18" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/diwash.bhattarai.18" target="_blank" rel="noreferrer">
 <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /></a> 
 <a href="https://www.instagram.com/diwash81/" target="_blank" rel="noreferrer">
 <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /></a> 
