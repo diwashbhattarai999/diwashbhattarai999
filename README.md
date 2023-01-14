@@ -1,6 +1,5 @@
- 
-<img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/github-header-image.png" width="100%" height="100%" align="center"/>
- 
+<img src="https://user-images.githubusercontent.com/87477700/212483504-1912e654-7a9a-48df-8b10-656700ca5c81.png" width="100%" height="100%" align="center"/>
+
  # 🏄‍♂️ Diwash Bhattarai
 
 **`A passionate frontend developer from Nepal`**
