@@ -12,7 +12,7 @@
 I'm an CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am trying my best to learn and explore every opportunity of my life.
   
 - 🌱 I’m currently learning **React .JS** 
-- 📫 How to reach me **diwashbhattarai36@gmail.com**
+- 📫 How to reach me **diwashb999@gmail.com**
 
 ---
 
