@@ -17,7 +17,7 @@
 <div><img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/JXA0.gif" width="20%"  align="right"/></div> 
 
 <div>
- I'm an CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am trying my best to learn and explore every   opportunity of my life.
+ I'm a CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am trying my best to learn and explore every   opportunity of my life.
   <br/><br/><br/>
   
  - 🌱 I’m currently learning **React .JS** 
