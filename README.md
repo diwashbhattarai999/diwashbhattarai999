@@ -49,14 +49,17 @@
 
 ### 📊 Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px' align = "center" >
 <br />
-<!-- 
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=diwashbhattarai999&show_icons=true&locale=en" alt="Sojin Samuel" /> 
-  
- <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&locale=en&layout=compact" alt="Sojin samuel" />
-</div> -->
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&theme=radical" alt="SojinSamuel" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&theme=radical" alt="Diwash Bhattarai" />
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=diwashbhattarai999&show_icons=true&theme=radical&locale=en" alt="Diwash Bhattarai" /> 
+  
+ <img width="41%" height="auto"  src="https://github-readme-stats.vercel.app/api/top-langs?username=diwashbhattarai999&show_icons=true&theme=radical&locale=en&layout=compact" alt="Diwash Bhattarai" />
+</div>
+
+
+</div>
 
 ---
 
