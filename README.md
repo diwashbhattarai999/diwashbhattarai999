@@ -7,10 +7,11 @@
 <br />
 <br />
 
-
 :heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
 <br />
+
 *`Experience is the name everyone gives to their mistakes.`*
+
 <br />
 
 
@@ -28,7 +29,7 @@
 
 ---
 
-### 🧰 Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 36px align = "center"> 
+### 🧰 Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center"> 
 <br />
 
 <div>
@@ -39,9 +40,13 @@
  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/226601775-18f7361b-a4ad-47ad-84fb-5e47bc441a7b.png" />
+  <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/229035908-5a2d7b4f-e695-4786-947a-31f51703d59c.png" />
+ 
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  </div>
+<br />
+<br />
 <br />
 
 
