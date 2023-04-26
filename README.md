@@ -44,7 +44,7 @@
  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234590344-bfe63a4f-1f8f-4ef7-ac80-a9bdff7fb59d.png" />
  
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234591681-8f60e316-cde0-4255-b95c-d45985907d08.png" />
  </div>
 <br />
 <br />
