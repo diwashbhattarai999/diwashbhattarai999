@@ -33,23 +33,22 @@
 <br />
 
 <div>
- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
- <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
- <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/226602344-175d0c57-bed1-4edb-9877-3c1f0bd4a48c.png" />
- <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/226601775-18f7361b-a4ad-47ad-84fb-5e47bc441a7b.png" />
-  <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/229035908-5a2d7b4f-e695-4786-947a-31f51703d59c.png" />
- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234590344-bfe63a4f-1f8f-4ef7-ac80-a9bdff7fb59d.png" />
+ <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+ <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+ <img align="left" alt="TailwindCSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="left" alt="Sass" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/226602344-175d0c57-bed1-4edb-9877-3c1f0bd4a48c.png" />
+ <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="left" alt="Redux" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/226601775-18f7361b-a4ad-47ad-84fb-5e47bc441a7b.png" />
+  <img align="left" alt="Next.js" width="60px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234593809-b9387348-96e1-4df8-b4fb-02a4ec4e79c4.svg" />
+ <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234590344-bfe63a4f-1f8f-4ef7-ac80-a9bdff7fb59d.png" />
  
- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234591681-8f60e316-cde0-4255-b95c-d45985907d08.png" />
+ <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234592685-8ec18ee9-536f-447a-9a58-0ac176322d35.png" />
  </div>
 <br />
 <br />
 <br />
-
 
 ---
 
