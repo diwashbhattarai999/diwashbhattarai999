@@ -42,6 +42,8 @@
  <img align="left" alt="Redux" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/226601775-18f7361b-a4ad-47ad-84fb-5e47bc441a7b.png" />
   <img align="left" alt="Next.js" width="60px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234593809-b9387348-96e1-4df8-b4fb-02a4ec4e79c4.svg" />
  <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234590344-bfe63a4f-1f8f-4ef7-ac80-a9bdff7fb59d.png" />
+ <img align="left" alt="MongoDB" width="140px" style="padding-right:10px;" src="https://github.com/diwashbhattarai999/diwashbhattarai999/assets/87477700/94fe395e-a2a9-470c-ad83-6abb28395ee7" />
+
  
  <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87477700/234592685-8ec18ee9-536f-447a-9a58-0ac176322d35.png" />
