@@ -10,7 +10,7 @@
 :heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
 <br />
 
-_ `Experience is the name everyone gives to their mistakes.` _
+ **`Experience is the name everyone gives to their mistakes.`**
 
 <br />
 
