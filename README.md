@@ -1,11 +1,13 @@
-<img src="https://user-images.githubusercontent.com/87477700/212483504-1912e654-7a9a-48df-8b10-656700ca5c81.png" width="100%" height="100%" align="center"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there!&reversal=false&textBg=false&fontSize=120&animation=twinkling&stroke=000&strokeWidth=0.2"/>
 
 ### 🏄‍ I am
 
 # 🧑‍💻 Diwash Bhattarai
 
+
 **`A passionate student learning to code  🇳🇵 `**
 <br /><br />
+<img src="https://github.com/diwashbhattarai999/diwashbhattarai999/assets/87477700/3611ca1a-90f1-4e28-b7a4-cc14f5a63238" width="40%" align="right"/>
 
 :heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
 <br />
@@ -14,12 +16,10 @@
 
 <br />
 
-<div>
-   <img src="https://github.com/diwashbhattarai999/diwashbhattarai999/blob/main/JXA0.gif" width="20%"  align="right"/>
-</div>
 
-<div>
-   I'm a CSIT student and enthusiastic programmer building my version of the programming world one step at a time. I am trying my best to learn and explore every   opportunity of my life.<br/><br/><br/>
+<div style="max-width: 600px; margin: 0 auto;">
+   I'm a CSIT student and enthusiastic programmer building my version of the programming world one step at a time.
+   I am trying my best to learn and explore every opportunity of my life.<br/><br/><br/>
    
    - 🌱 I’m currently learning **FullStack Web Development** 
    - 📫 How to reach me **diwashb999@gmail.com**
@@ -29,77 +29,89 @@
 
 ---
 
+
 ### 🧰 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
 
 <br />
 
+#### Frontend
+
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    <a href="https://www.w3schools.com/html/">
-      <img align="left" alt="HTML" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img align="left" alt="HTML" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    </a>
-
    <a href="https://www.w3schools.com/css/">
-      <img align="left" alt="CSS" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+      <img align="left" alt="CSS" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
    </a>
-
    <a href="https://tailwindcss.com/">
-      <img align="left" alt="TailwindCSS" width="46px" style="padding-right:10px; " src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+      <img align="left" alt="TailwindCSS" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
    </a>
-
    <a href="https://sass-lang.com/">
-      <img align="left" alt="Sass" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img align="left" alt="Sass" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    </a>
-
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img align="left" alt="JavaScript" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <img align="left" alt="JavaScript" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    </a>
-
    <a href="https://reactjs.org/">
-      <img align="left" alt="React" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img align="left" alt="React" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    </a>
-
    <a href="https://redux.js.org/">
-      <img align="left" alt="Redux" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+      <img align="left" alt="Redux" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
    </a>
-
    <a href="https://nextjs.org/">
-      <img align="left" alt="Next.js" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+      <img align="left" alt="Next.js" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
    </a>
-
    <a href="https://www.typescriptlang.org/">
-      <img align="left" alt="TypeScript" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img align="left" alt="TypeScript" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    </a>
+</div>
+<br /><br /><br />
 
+#### Backend
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+   <a href="https://nodejs.org/">
+      <img align="left" alt="Node.js" width="46px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+   </a>
+   <a href="https://expressjs.com/">
+      <img align="left" alt="Express.js" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" />
+   </a>
+   <a href="https://nextjs.org/">
+      <img align="left" alt="Next.js" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   </a>
+</div>
+<br /><br /><br />
+
+#### Databases
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    <a href="https://www.mongodb.com/">
-      <img align="left" alt="MongoDB" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+      <img align="left" alt="MongoDB" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
    </a>
-
    <a href="https://www.prisma.io/">
       <img align="left" alt="Prisma" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prisma/prisma-original.svg" />
    </a>
-  
+</div>
+<br /><br /><br />
 
-   <a href="https://nodejs.org/">
-      <img align="left" alt="Node.js" width="46px" style="padding-right:10px; " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-   </a>
+#### Tools
 
-   <a href="https://expressjs.com/">
-      <img align="left" alt="Express.js" width="46px" style="padding-right:10px; " src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" />
-   </a>
-
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    <a href="https://git-scm.com/">
-      <img align="left" alt="Git" width="46px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img align="left" alt="Git" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    </a>
-
    <a href="https://github.com/">
-      <img align="left" alt="GitHub" width="46px" style="padding-right:10px; " src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
+      <img align="left" alt="GitHub" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
+   </a>
+   <a href="https://github.com/">
+      <img align="left" alt="VsCode" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
    </a>
 </div>
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
 ---
 
-### 📊 Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px' align = "center" ><br />
+### 📊 Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='26px' height='26px' align = "center" ><br />
 
 <div align="center">
    <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbhattarai999&theme=radical" alt="Diwash Bhattarai" />
@@ -130,3 +142,4 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA9400&height=120&section=footer"/>
+
