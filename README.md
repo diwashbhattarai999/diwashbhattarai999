@@ -32,12 +32,14 @@
 
 ### 🧰 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
 
-<br />
-
 #### Frontend
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   <a href="https://www.w3schools.com/html/">
+   <img
+     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs"
+   />
+   
+<!--    <a href="https://www.w3schools.com/html/">
       <img align="left" alt="HTML" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    </a>
    <a href="https://www.w3schools.com/css/">
@@ -63,14 +65,18 @@
    </a>
    <a href="https://www.typescriptlang.org/">
       <img align="left" alt="TypeScript" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   </a>
+   </a> -->
 </div>
-<br /><br /><br />
 
 #### Backend
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   <a href="https://nodejs.org/">
+   
+   <img
+     src="https://skillicons.dev/icons?i=nextjs,nodejs,expressjs,mongodb"
+   />
+   
+<!--    <a href="https://nodejs.org/">
       <img align="left" alt="Node.js" width="46px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
    </a>
    <a href="https://expressjs.com/">
@@ -78,26 +84,17 @@
    </a>
    <a href="https://nextjs.org/">
       <img align="left" alt="Next.js" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   </a>
+   </a> -->
 </div>
-<br /><br /><br />
-
-#### Databases
-
-<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   <a href="https://www.mongodb.com/">
-      <img align="left" alt="MongoDB" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-   </a>
-   <a href="https://www.prisma.io/">
-      <img align="left" alt="Prisma" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prisma/prisma-original.svg" />
-   </a>
-</div>
-<br /><br /><br />
 
 #### Tools
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   <a href="https://git-scm.com/">
+    <img
+        src="https://skillicons.dev/icons?i=postman,figma,git,github,vscode"
+      />
+   
+<!--    <a href="https://git-scm.com/">
       <img align="left" alt="Git" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    </a>
    <a href="https://github.com/">
@@ -105,9 +102,9 @@
    </a>
    <a href="https://github.com/">
       <img align="left" alt="VsCode" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
-   </a>
+   </a> -->
 </div>
-<br /><br /><br />
+<br />
 
 ---
 
