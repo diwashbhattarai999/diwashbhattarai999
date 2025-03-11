@@ -36,36 +36,8 @@
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    <img
-     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs"
+     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,framermotion"
    />
-   
-<!--    <a href="https://www.w3schools.com/html/">
-      <img align="left" alt="HTML" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   </a>
-   <a href="https://www.w3schools.com/css/">
-      <img align="left" alt="CSS" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   </a>
-   <a href="https://tailwindcss.com/">
-      <img align="left" alt="TailwindCSS" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-   </a>
-   <a href="https://sass-lang.com/">
-      <img align="left" alt="Sass" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img align="left" alt="JavaScript" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   </a>
-   <a href="https://reactjs.org/">
-      <img align="left" alt="React" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   </a>
-   <a href="https://redux.js.org/">
-      <img align="left" alt="Redux" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-   </a>
-   <a href="https://nextjs.org/">
-      <img align="left" alt="Next.js" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   </a>
-   <a href="https://www.typescriptlang.org/">
-      <img align="left" alt="TypeScript" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   </a> -->
 </div>
 
 #### Backend
@@ -73,37 +45,37 @@
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    
    <img
-     src="https://skillicons.dev/icons?i=nextjs,nodejs,expressjs,mongodb"
+     src="https://skillicons.dev/icons?i=nextjs,nodejs,expressjs"
    />
-   
-<!--    <a href="https://nodejs.org/">
-      <img align="left" alt="Node.js" width="46px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-   </a>
-   <a href="https://expressjs.com/">
-      <img align="left" alt="Express.js" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" />
-   </a>
-   <a href="https://nextjs.org/">
-      <img align="left" alt="Next.js" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   </a> -->
 </div>
+
+#### Database
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+   
+   <img
+     src="https://skillicons.dev/icons?i=postgres,mongodb,firebase"
+   />
+</div>
+
+#### Dev-ops
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+   
+   <img
+     src="https://skillicons.dev/icons?i=docker"
+   />
+</div>
+
 
 #### Tools
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
     <img
-        src="https://skillicons.dev/icons?i=postman,figma,git,github,vscode"
+        src="https://skillicons.dev/icons?i=linux,postman,git,github,vscode,figma"
       />
-   
-<!--    <a href="https://git-scm.com/">
-      <img align="left" alt="Git" width="46px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   </a>
-   <a href="https://github.com/">
-      <img align="left" alt="GitHub" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-   </a>
-   <a href="https://github.com/">
-      <img align="left" alt="VsCode" width="46px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
-   </a> -->
 </div>
+
 <br />
 
 ---
