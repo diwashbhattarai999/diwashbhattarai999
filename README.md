@@ -36,7 +36,7 @@
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    <img
-     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,npm,ts"
+     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs"
    />
 </div>
 
@@ -72,7 +72,7 @@
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
     <img
-        src="https://skillicons.dev/icons?i=linux,postman,git,github,vscode,figma"
+        src="https://skillicons.dev/icons?i=linux,postman,git,github,vscode,figma,npm"
       />
 </div>
 
