@@ -36,7 +36,7 @@
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
    <img
-     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,framermotion"
+     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,npm,ts"
    />
 </div>
 
