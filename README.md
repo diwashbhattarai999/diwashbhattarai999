@@ -5,76 +5,75 @@
 # 🧑‍💻 Diwash Bhattarai
 
 
-**`A passionate student learning to code  🇳🇵 `**
+**`CSIT Graduate • Full Stack Developer 🇳🇵`**
 <br /><br />
 <img src="https://github.com/diwashbhattarai999/diwashbhattarai999/assets/87477700/3611ca1a-90f1-4e28-b7a4-cc14f5a63238" width="40%" align="right"/>
 
-:heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
+❤️ Code | 🖤 Roam | 💙 Eat | 💚 Sleep  
 <br />
 
- **`Experience is the name everyone gives to their mistakes.`**
+**`Experience is the name everyone gives to their mistakes.`**
 
 <br />
-
 
 <div style="max-width: 600px; margin: 0 auto;">
-   I'm a CSIT student and enthusiastic programmer building my version of the programming world one step at a time.
-   I am trying my best to learn and explore every opportunity of my life.<br/><br/><br/>
+   I am a Computer Science and Information Technology (CSIT) graduate working primarily with web technologies.
+   My focus is on building maintainable backend systems and understanding how large-scale applications are designed and operated.
+   I am currently strengthening my knowledge of backend architecture, distributed systems, and system design principles.<br/><br/><br/>
    
-   - 🌱 I’m currently learning **FullStack Web Development** 
-   - 📫 How to reach me **diwashb999@gmail.com**
+   - Currently learning **NestJS** and **Microservices Architecture**
+   - Interested in **System Design**, **Scalability**, and **Backend Architecture**
+   - Reach me at **diwashb999@gmail.com**
 </div>
 
 <br /><br /><br />
 
 ---
 
-
 ### 🧰 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
 
 #### Frontend
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   <img
-     src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs"
-   />
+   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs" />
 </div>
 
 #### Backend
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   
-   <img
-     src="https://skillicons.dev/icons?i=nextjs,nodejs,expressjs"
-   />
+   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs" />
 </div>
 
-#### Database
+#### Databases
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   
-   <img
-     src="https://skillicons.dev/icons?i=postgres,mongodb,firebase"
-   />
+   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" />
 </div>
 
-#### Dev-ops
+#### DevOps & Infrastructure
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   
-   <img
-     src="https://skillicons.dev/icons?i=docker"
-   />
+   <img src="https://skillicons.dev/icons?i=docker,linux" />
 </div>
 
-
-#### Tools
+#### Tools & Workflow
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-    <img
-        src="https://skillicons.dev/icons?i=linux,postman,git,github,vscode,figma,npm"
-      />
+   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,npm" />
 </div>
+
+<br />
+
+---
+
+### Current Focus
+
+- Backend development with **NestJS**
+- Designing and implementing **microservices**
+- **System design fundamentals** (scalability, reliability, performance)
+- Clean architecture and code maintainability
+- Understanding production-level backend systems
+
 
 <br />
 
